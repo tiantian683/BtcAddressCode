@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5caff038-db3e-4c8e-9c65-e34ea182465d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1likA4MjhP4WsF4KLnNtcP976QK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Goprojects\src\BcAddressCode\base58" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build BcAddressCode">
+    <configuration name="go build BcAddressCode (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BcAddressCode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test.go" />
+      <package value="BcAddressCode" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build BcAddressCode" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BcAddressCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="BcAddressCode" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build BcAddressCode" />
+        <item itemvalue="Go Build.go build BcAddressCode (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="788" y="63" key="#go_build_BcAddressCode" timestamp="1608087225868">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="788" y="63" key="#go_build_BcAddressCode/0.0.1474.864@0.0.1474.864" timestamp="1608087225868" />
+    <state x="446" y="67" key="#go_build_BcAddressCode_(1)" timestamp="1608190192475">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="446" y="67" key="#go_build_BcAddressCode_(1)/0.0.1474.864@0.0.1474.864" timestamp="1608190192475" />
+    <state x="849" y="174" key="FileChooserDialogImpl" timestamp="1608087281039">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="849" y="174" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1608087281039" />
+    <state width="1431" height="127" key="GridCell.Tab.0.bottom" timestamp="1608190816216">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="127" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1608190816216" />
+    <state width="1431" height="127" key="GridCell.Tab.0.center" timestamp="1608190816216">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="127" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1608190816216" />
+    <state width="1431" height="127" key="GridCell.Tab.0.left" timestamp="1608190816216">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="127" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1608190816216" />
+    <state width="1431" height="127" key="GridCell.Tab.0.right" timestamp="1608190816216">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="127" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1608190816216" />
+    <state x="694" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1608187865193">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="694" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1608187865193" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>111</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
