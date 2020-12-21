@@ -138,7 +138,7 @@ func GetAddress() string {
 	return base58.Encode(add)
 
 }
-
+//测试git分支
 func CheckAdd(add string)bool  {
 	//1、反编码
 	deAddByets := base58.Decode(add)
